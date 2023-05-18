@@ -54,8 +54,8 @@ publishing {
 //        artifact(javadocJar.get())
 
         pom {
-            name.set("KMM-MVVM")
-            description.set("KMM-MVVM is a library with ViewModel classes and extensions for Kotlin Multiplatform Mobile development")
+            name.set("KMM-Navigation")
+            description.set("KMM-Navigation is a library with navigation classes and extensions for Kotlin Multiplatform Mobile development")
             url.set("https://github.com/Dmitriy1892/KMM-Navigation")
 
             licenses {
